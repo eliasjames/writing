@@ -1,0 +1,17 @@
+Science and religion have so much in common. Everyone focuses on the depth of the differences instead of the breadth of the similarities. 
+
+The two views of the world seem so different they couldn't possibly agree on any definitions. Materialist scientists believe reality is an illusion created by the intersection of conciousness with fluctuations in the quantum vacuum, and fundamentalist Christians believe reality is an illusion created by Satan in order to tempt us. But there's still agreement there: the acknowledgment of human limitations drives both viewpoints. 
+
+I think the misunderstandings come more from a failure to agree on shared definitions. There's a set of things we can all agree on, our shared human experience.
+
+Hot things are hot. They're very dangerous in certain situations. Natural gas is one. Falling things cause an impact when they land. The farther they fall the more so. Objects have a center of gravity, if they're placed wrong they tip over. Objects have a maximum amount of weight they can support. 
+
+All of these things are measurable by common methods, and they're undeniable. It doesn't matter if you believe in Jesus or Buddha or Einstein, you can measure how fast things fall, and you'll get the same measurement I will. 
+
+But sometimes the result of a common measurement is counter-intuitive. In the 17th century, Galileo demonstrated objects fall at a speed unrelated to their weight. This is counter-intuitive, because we expect a bowling ball to fall faster than a golf ball. And it might - not because the golf ball is lighter, but because the dimples on it cause it to spin and tumble, which slows it down, while the air flows smoothly around the bowling ball. Our everyday feeling is small things - which also happen to weigh less - tend to be "floaty-ier" than big things. The technical name for "floatyness" is the ratio between surface area and mass. 
+
+So even if it's counter-intuitive, we have to all accept the results of common measurements. The speed of falling is 9.8 meters per second per second, which means each second the speed gets faster by 9.8. Then eventually there's a speed limit, which is the floatiness. Throw a feather out of an airplane at 10,000 feet, and it will float down at the same speed as from 10 feet. A human and a bowling ball and an airplane all have the same maximum falling speed - terminal velocity - at about 180 meters per second.
+
+The speed of light turns out to be a common measurement. The simplest version involves a light, a mirror, and a wheel with cutouts. The cutouts are offset so that the light is covered when your view of the mirror isn't, and vice versa. You start spinning the wheel, faster and faster, and when you start being able to see the light in the mirror, you know the wheel is spinning at a special speed: the time the wheel is taking to move between "open" and "closed" is in proportion to the time the light is taking to bounce off the mirror and back to you. 
+
+With a little mechanical aptitude and a lot of patience, you can conduct this measurement in your basement. And many scientists have, and it's surprisingly accurate. The figure you get off this basic setup falls within 5% from the most current, accurate results. 

@@ -1,0 +1,21 @@
+Uncertainty
+
+Nothing is more important than admitting the possibility you might not be correct.
+
+Ten years ago, I worked for Mike Dreese, the owner of beloved New England retailers Newbury Comics. Mike graduated from MIT before starting Newbury Comics, which he expanded from one small store to dozens of locations and millions in annual revenue through a combination of shrewd and unorthodox business practices, and a relentless focus on customer satisfaction. 
+
+I learned a ton from Mike, but one of his mantras stuck with me more than the others: "The three most important words in business are 'I don't know'." Mike tried to drill into us that humans create narratives - stories - based on data, and then filled in gaps in data based not on more data, but on where the story seemed to lead. 
+
+However, story-driven reasoning often leads to bad decisions, because the story inside your head may differ from the story the outside world in subtle and unexpected ways. Instead of making inferences and deductions based on what you already know, you have to get more data. 
+
+Mike's mantra applies much more broadly than just 'in business'. Doubt has been a fundamental element for philosophers going back thousands of years. But like all fundamentals, living by it is easier said than done, especially today. 
+
+In our modern era, we see technological results of scientific principles that have been refined over hundreds of years. Isaac Asimov summed up the cumulavtive power of these refinements when he remarked "Any sufficiently advanced technology is indistinguishable from magic." And since this apparent magic derives from mathematics, we associate magical power with math, in what Eugene Wigner called "the unreasonable effectiveness of numbers."
+
+But those stories aren't finished. The world tells its story, and humans only get to interpret a small portion of it at any given time. Humans sent men to the moon using tools essentially unchanged since the 17th century - the physics of rockets and orbits stay in the realm of Newton. Look at any picture of NASA scientists during the moon shot era, and chances are good you'll see a slide rule. Most of those calculations were done with pen and paper, or blackboard and chalk. 
+
+Even Newton's powerful calculus couldn't explain irregularities in the orbit of Mercury though. Scientists wrestled with those differences for hundreds of years, until Einstein and relativity came along.
+
+Relativity is the most accurate 'theory' any human has ever devised. Experiments based on relativity have verified predictions at mind-boggling levels of prediction. In particular, the predictions made about the magnetic energy of the electron continue to be proven true by increasingly accurate experiments. The predictive ability of the theory has greatly outdistanced its explanatory ability - scientists are as bad at describing what the theory *means* as they are good at using to derive values - but it is absolutely undeniable today that the theory represents reality very closely.
+
+It wasn't that way from the beginning. Einstein published his three breakthrough papers in the "miracle year" of 1906. Like other revolutionary breakthroughs, they met with a 

@@ -1,0 +1,11 @@
+Don't spend a single minute working on a problem you don't yet have. This sounds simple, but simple is hard. It sneaks up on you in insidious ways. 
+
+I had a client whose business had a recurring monthly schedule, with irregular exceptions such as holidays and weather emergencies. Instead of storing the calendar entries directly in the database, they stored the schedule and the exceptions, and then every night, deleted the calendar table, and re-built six months' worth of calendar entries. The build gave them horrible trouble, and they poured tremendous amounts of effort into it. I was on the front end, so it didn't affect me much, but I asked why they didn't just leave the calendar records in place, and make edits for exceptions on them directly. 
+
+They refused to even consider the possibility. Their concern: leaving records would cause the table to grow over time, and after a few years, a big table would get slow. 
+
+I've never seen a worse case of what engineers call "premature optimization". A form of performance anxiety, it manifests itself differently every time. This led the team to implement a clunky solution, but even if they had built the most elegant, minimalist calendar re-builder ever, they'd still be solving a hypothetical, by their own admission years away. 
+
+And that's the bigger problem. Another saying in engineering goes "The only thing worse than generalizing from one example is generalizing from no examples at all." The root cause is always the same though: someone makes a technical decision based on feelings instead of best practices.  
+
+Fear drove this case - fear of learning how to optimize a large database. So much fear, they agreed as a group to pursue this white whale instead of facing it - even having to face it in two years. Fear is probably the number one emotion behind premature optimization, but vanity might be a close second. Lots of engineers obsess

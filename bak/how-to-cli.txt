@@ -1,0 +1,68 @@
+Get started with the Linux CLI
+
+The Command Line Interface can make you tremendously productive, but only if
+you exploit its strengths. Learning how to do that can be very challenging, so
+let's start with an example that illustrates why it's worth it. Then I will
+give you a small but complete use case you can start practicing.
+
+The tab key 
+At the command line, pressing the tab key attempts to autocomplete a directory 
+name based on any characters that have already been entered.
+
+By default, the Linux CLI starts in the user's home directory. Type 'ls' to show
+the contents. Mine looks like this:
+
+Applications  Documents   Library   Music   Public
+Desktop   Downloads   Movies    Pictures
+
+Type a few letters of any directory name and press tab. If you entered enough
+letters to exclude all directories but one, the CLI will complete it for you. 
+For example, typing 'Doc' followed by the tab key autocompletes to 'Documents'.
+If there aren't enough letters to exclude all directories but one, the first 
+tab does nothing, but pressing tab again will show the multiple matches. 
+
+The obvious benefit of autocompletion is saving keystrokes - you pressed four 
+keys ('Doc' plus tab) instead of nine ('Documents'). That savings really adds 
+up over time. But in the longer term, accuracy may be the bigger benefit.
+
+When you tab-complete, you've proven to yourself that the intended path is 
+correct. The longer a path you type out manually, the greater the potential to 
+have an error somewhere within it. Compare the paths below:
+
+'/Users/eliascarlston/Documents/writing/how-to-cli'
+'/Users/eliascarlston/documents/writing/how-to-cli'
+
+One of those paths won't work. Can you see the difference?
+
+If you use tab to autocomplete your paths, you'll never make that error. Not 
+only are you saving keystrokes, you're also verifying in real time the names
+of the directories. 
+
+I can't tell you how much heartbreak this will save you. Mis-typing a path can
+cause a command to return some unrelated error; and then you waste precious 
+time trying to debug that.
+
+Showing a directory's contents
+
+We already saw how to do this in its basic form: 'ls' (short for "list"). Lots 
+of people know about the basic form of ls, but many don't know ls can show the
+contents of any directory, not just the current one. 
+
+'ls' - returns contents of current directory
+'ls /Users/eliascarlston/Documents' - returns contents of directory specified
+'ls /Users/eliascarlston/Documents/writing' - same
+
+Create a new directory
+
+The mkdir command takes a name and creates a new directory there. 
+
+'mkdir /Users/eliascarlston/Documents/writing/how-to-cli'
+
+Practice
+
+Switch over completely to creating directories through the CLI. Any time you 
+need a new directory, pretend the only way to do it is through the CLI. 
+ - Use ls to examine directory structure 
+ - mkdir to create the new directory
+ - most importantly, use tab to construct all the path names
+importantly, use tab to 

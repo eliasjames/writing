@@ -1,0 +1,35 @@
+First Things First
+
+If I could only give one piece of advice, which had to apply to the most people in the most situations, it would be this: beware the inaccurate proxy.
+
+Engineering has an acronym, POSIWID, standing for the Purpose Of a System Is What It Does. Engineers have long known their systems are used in ways they never envisioned. But they also learn the way users describe their concepts of how the system functions demonstrates gaps in their understanding in ways they could never express literally. 
+
+I had a freelance contract working for a company whose product was in retail. We were in a meeting preparing for a new client (a multibillion dollar international corporation) when one of the company employees asked the salesperson how many different items the client sold. He wasn't sure but thought it might be in the low thousands. The company employee told the salesperson to confirm the exact number.
+
+After the call, I asked why the number of items was important. The answer was "we are boutique and upscale, and we don't want mass-market clients." This didn't sit well with me, and after just a little digging, I learned they had a scaling problem. Their database would grind to a halt with only a few hundred items (it had been implemented as XML inside of text fields - a rookie mistake). But instead of the real reason - "we made a cripplingly bad decision, and we grew too fast to prioritize fixing it" - we got this "boutique" fiction instead. 
+
+In a complex system, even internal, "power users" can be spectacularly wrong in their assumptions about how the system is implemented. They know the results of the system very well - often better than the specialist - but they make up stories about how the result happened. 
+
+In a general form, I find that this error happens not only in engineering but in every aspect of life. I think the error can be summarized as "using an inaccurate proxy". 
+
+A proxy is a substitute, a stand-in, a cardboard cutout. Proxies save you time and effort, but only when they're accurate. When they're inaccurate, they can cause unpredictably bad decisions.
+
+Twenty years ago, a bachelor's degree was almost always a requirement for a job in software. I started in software just as the crack in that dam appeared (I never finished mine). Now a degree is rarely mentioned without the phrase "or equivalent experience". Why did that change?
+
+Forty years ago, in my Dad's engineering heyday, programming looked basically like advanced mathematics. In fact, my Dad was on a PhD Mathematics track at Princeton before he decided to take the "easy" way out and become an Electrical Engineer. Before the internet, it was exceptionally difficult to teach yourself the concepts necessary for software development. Therefore, in that day and age, it was accurate to use a degree as a proxy for competence. 
+
+Today, programming has changed. Instead of the bulk of the work being mathematics of low-level implementations, today programmers deal with high-level logic of systems implementation. But Computer Science still doesn't teach software development so much as applied mathematics. And the requirements of a modern commercial software developer are significantly different from those of an applied mathematician. 
+
+I once interviewed someone with two master's degrees who couldn't code his way out of a paper bag (he took 25 minutes to solve FizzBuzz, partly because he insisted on gold-plating it). In fact, two master's could have been a warning sign: here's someone who prefers academics to work. 
+
+The bachelor's requirement for jobs ended because Computer Science degrees stopped being an accurate proxy for commercial software development competence. As a filter, it kept too many good candidates out and let too many bad ones through. It stopped being accurate as a proxy.  
+
+This has caused a great deal of difficulty in the software development industry, because another simple and reliable proxy has not been found. The obvious solution, coding tests, has proved difficult, because passing coding tests indicates competence at passing coding tests, not commercial software development. The best alternative so far has been evaluation by other competent developers, but it depends greatly on the skill of the evaluator. For example, some developers are biased to a language or OS to such a degree they can't evaluate others outside their comfort zone. Some fail to look for meta-technical signs of incompetence, like "brilliant jerks" who write good code but turn the office environment into a scorched-earth battleground of hostility.
+
+I suggest no proxy can ever be fully accurate and reliable, because of the nature of proxying itself. Only the thing which the proxy stands for can be trusted. In this case, the thing which is being proxied is the employee's job performance as a commercial software engineer. You're trying to decide who will be the best employee. But you're not able to interview the brilliant jerk employee, you can only interview the well-behaved candidate. Job performance can only truly be assessed in retrospect. We use proxies to make predictions about the future. 
+
+We have no choice but to use proxies - the human brain seems to be built on them. Sensation is processed by our brains a fraction of a second after it happens, so our direct perception of reality is itself a proxy. Optical illusions demonstrate what happens when the proxy assumptions our visual system makes prove incorrect.
+
+between the lowest levels of sensation and the highest levels of thought however, we have a shocking amount of control over how we choose to interpret those signals. An athlete will cheerfully submit themselves to certain intense physical sensations that someone out of shape finds unbearable, but treat other physical sensations as warning signs and back off immediately. Likewise, the best programmers can't stand having a proxy anywhere within their mental model of a system, but recognize that their time is limited, and focus on eliminating any inaccurate proxies in the most critical areas.
+
+Since we have to use proxies, it's critical for them to be as accurate as possible. Recognizing inaccurate proxies and being able to improve them are two separate skills which can have tremendous impact on personal effectiveness in any endeavor. Next, I'll talk about a concept from linguistics (the Subject/Grounding Problem) which can help a great deal. 
