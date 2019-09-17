@@ -1,0 +1,23 @@
+At first glance, I'd say a software developer has two jobs:
+- translate requirements from plain language into functionality
+- manage complexity
+
+Translating requirements most people are familiar with. This is the process of interviewing users to find out their needs, coming up with features that satisfy those needs, and implementing those features in some form of technology. 
+
+Sounds simple, doesn't it? It is simple - because simple things are hard. It's so easy to say something simple in plain language that's super difficult to implement. 
+
+Think about the simplest description of a social network: "I want a site where my friends can all log in and we can share messages with each other." As soon as you say 'log in', you've set expectations for a whole slew of requirements. The site has to be secure, it has to offer a way to recover lost credentials (reset password), it has to respond within a certain period of time... those two little words, 'log in', carry so much weight. 
+
+Imagine now the interaction between login and shopping. There's many different combinations to consider: adding an item to cart, not logged in; logging in with an item in your cart; logging in with a sold-out or expired item in your cart. The same interaction holds true for "sharing": gotta be logged in to know whose wall you can post on... you get the idea. 
+
+So software development gets complicated quickly. In Engineering, there's a number called the angle of repose. When you make a pile of similar objects, there's a maximum height and steepness, before particles start to roll downhill.
+
+At first, you can pile features on to your project and everything goes great. But eventually you reach an angle of repose. Any new feature you pile on top causes two or three to roll down the side. 
+
+You have to change the angle. You could mix water into the pail when you make your sand castle bricks. You could mix in some sticks and twigs as reinforcement. But eventually, if you want to build any higher than a sand castle, you're going to have to learn some building techniques. 
+
+I said a software developer has two jobs, because we're all familiar with the process of translating requirements. But really they're the same. You won't be able to translate requirements that are more complex than you're capable of managing. 
+
+So if managing complexity and translating requirements are the same, what's the second job? Practice. Practice managing complexity, over and over. Build a site, then a slightly different one, then another. Build something wide and comprehensive; build something narrow and focused. 
+
+Don't make it any harder than it needs to be, and practice your craft.

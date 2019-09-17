@@ -1,0 +1,16 @@
+Listen, I'm not going to bullshit you. Software development isn't easy. 
+
+There's a line of software development books called "Learn [X language] in 24 hours!". They twist the meaning almost immediately; what it really means is twenty four one hour lessons. 
+
+Everybody promises to make it easy to learn software development! But it's about as successful as promises to burn stubborn belly fat with this one weird trick! 
+It's just a matter of the wrong definition. 
+
+Software development is like Super Mario Brothers. 
+
+Some people never finished Super Mario Brothers, and that's okay! Some people never get past the third or fourth level. They kind of repeat themselves after that point anyway. 
+
+Maybe you found the warp zones and the vine up to coin heaven. Maybe you're a speed runner. Or maybe you get into level design and platformer mashup. 
+
+Software development is a practice, like music or exercise. It's as hard as you want it to be. But most people want to be good, so we make it hard. 
+
+The trick is to not make it any harder than it has to be. 

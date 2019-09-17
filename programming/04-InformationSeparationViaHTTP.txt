@@ -1,0 +1,23 @@
+Clarity is the most important characteristic in software. In order for something to be clear, it has to be stated as simply as possble. One of the best ways to simplify complex arrangements is to group them into similar pieces. 
+
+The name for this approach is "separation of concerns." In a web page, separate parts of the code are responsible for separate jobs. HTML, CSS and JS all have specific jobs; but none of them can get from the outside world to your computer without first going through HTTP, the Hyper Text Transfer Protocol. 
+
+The first thing that the browser does when loading a page is to figure out where to get its resources. Resources hosted on the internet have a unique name, like 'http://eliasjames.com/photo.jpg'. Some hosts are local, like 'file://C:\Documents\photo.jpg'. 
+
+The value before the colon slash slash is called the 'scheme'. This tells the browser how it is allowed to access that resource. If the scheme is 'http', the browser uses the internet; if it's 'file', it accesses your local machine (if you leave out the scheme the browser assumes it's http).
+
+The 'file://' scheme is technically not a protocol. If you free associate the word 'protocol', what's the first thing that pops to mind? For many, it's the phrase "diplomatic protocol". If you think of diplomats as specialists who make transfers between countries, we explain the last two letters in the acronym HTTP. 'file://' doesn't involve a transfer - your machine does not have to make a request to another. When two machines communicate, protocol is necessary for clarity.
+
+That Senator from Alaska said the internet is a series of tubes, but that analogy wasn't simple enough. The internet is like the telephone. When the browser sees the 'http://' scheme, the first thing it does is look up the host name which follows it. The lookup is performed by DNS, the Domain Name Service. DNS functions exactly like a telephone book: give it a host name in text format, and it returns a number (called an Internet Protocol (IP) address, but very similar to a phone number). 
+
+The browser makes a connection to that IP address in a way that's super similar to a placing a phone call. But of course, no person picks up the call, but instead another machine. When a machine has a program running that listens for HTTP requests, we call it a "web server". Other servers might be referred to by different protocols - it's common to have an FTP server and an SMTP server (two separate programs) running on the same machine.
+
+When the web server receives the HTTP request, it checks a bunch of things. Mostly we're interested in how the server returns a resource. That's the second half of the protocol: between the double slashes and the first slash is the host, everything after the first slash is the resource. 
+
+The DNS system connects IP addresses, which are hard to remember and can change dynamically, with easy to remember, permanent domain names. Try this as an exercise: use DNS to look up the IP address for a site. Then use the IP to replace the host in the protocol, and load the page.
+
+Nine times out of ten, this "just works", because IP and domain name are almost always the same. Occasionally they're not. An example? If there's a script which refers to the domain name in text format, switching to IP will break it. 
+
+Even before we start programming, the web already displays separation of concerns. Believe it or not, all this separation is actually for the purpose of clarity. It may seem like some of these separations are confusing: domain and host, or scheme versus protocol. Most of the time, it's okay to think of them as the same and to use the names interchangably. But sometimes you really need them to be separate so you can tweak the values to your particular situation.
+
+In order to be clear, make things as simple as possible, but no simpler. 

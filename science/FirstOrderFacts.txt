@@ -1,0 +1,19 @@
+In order to communicate, we have to agree on what's true. I started asking, what has been proven beyond a shadow of a doubt? 
+
+The answer is, not much. But there are some things. I wrote before about falling - every human being has to believe in falling. An object not supported by a force equal to its weight will accelerate towards the Earth until that changes. And that speed is measurable. Millions of people have measured it over centuries, and they've continually gotten more and more accurate readings.
+
+This is what I'd call a first-order fact. An average person can easily verify the measurement, and anyone who has consistently gotten different values has been shown to be altering the experiment somehow, possibly unconciously.
+
+First order facts are as close to ironclad as we can get. When they do change, it's because of revolutionary new evidence. 
+
+You might be surprised at some of the measurements physics has established as first-order facts. Both the speed of light and the quantization of electric charge are experiments a relatively handy tinkerer could conduct in their basement with a few hundred dollars worth of materials. 
+
+Very little in our daily lives has to do with first-order facts though. Law and history are entirely based on individual judgement; no one can verify the process, and so the result changes depending on who beholds. Sometimes retroactively! 
+
+Programming is almost completely concerned with first-order facts. Every bug stems from an incorrect assumption you hold about how the code works. When we communicate with non-programmers, we talk in second order facts: what the spec says, how the spec should be implemented, and so on. But there's the way it should work and the way it actually *does* work, and it's important not to confuse the two. 
+
+That's worth repeating: there's the way it should work and the way it actually *does* work, and it's important not to confuse the two. 
+
+Since we're responsible as programmers to tell the difference, we have to constantly conduct experiments. What happens when I tweak this variable, or that one? And carefully note the differences.
+
+Compared to parsing the truth in everyday life, determining first-order facts in programming is super straightforward. In many ways it's hella more difficult. But both are equally important to understanding the entire picture. 
