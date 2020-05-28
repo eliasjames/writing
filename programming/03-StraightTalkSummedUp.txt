@@ -1,9 +1,0 @@
-Software development is simple, but it's not easy. 
-
-The most important thing is to be clear. If the cause of the current behavior is not clear, there's no way you're going to fix or improve on it. 
-
-The process of implementing software is like performing a piece of music. There exists a perfect, ideal performance for every piece of music, but you will never, ever, get there. Only closer. You learn so much, but you never finish. 
-
-But the clearer you get, the farther you can see. There's pros and cons to everything, but I believe seeing more clearly is better than seeing less clearly. 
-
-Nothing is more important in software development than clarity. 

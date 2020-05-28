@@ -1,9 +1,0 @@
-Software is exactly like natural language. It's just a very specific dialect. 
-
-In natural language, sentences need to follow some comprehensible rules. Not any specific grammar; but they need a subject, a verb, and maybe an object. Yoda from Star Wars speaks English in Eastern European patterns, but you can still understand it. 
-
-The rules are called syntax, and applying the rules to some text is called parsing. The text we write programs in gets replaced by its numeric equivalent, which is then acted on arithmetically. The same thing was done in Ancient Greek and Hebrew, but they were looking for mystical meaning. Instead, we're looking for arithmetic which produces a useful pattern, like input to a screen.
-
-Another similarity between natural language and programming is the difference between syntax and meaning. You can have a syntactically correct sentence that doesn't mean anything - Noam Chomsky's famous example was "Colorless green ideas sleep furiously." Syntactically correct code can produce unhelpful patterns - we call these bugs.
-
-
