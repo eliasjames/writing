@@ -1,4 +1,4 @@
-The most important part of beautiful code, formatting, adds no measurable value.
+The most important part of beautiful code, formatting, adds no features or performance benefits.\*
 
 Just like a poem, programmers use whitespace to give code shape. Spaces, tabs and returns get used to shift code horizontally and vertically.
 
@@ -13,3 +13,5 @@ Spending time and attention on actions that don't add features is wasteful. Ever
 But being wasteful intentionally can be a gift, an offering, luxurious.
 
 Making something beautiful requires choosing what to waste.
+
+\* EDIT: changed from "adds no measurable value" - formatted code has been proven to have lower bug density, easier refactoring, etc.
