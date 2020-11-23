@@ -2,7 +2,7 @@ Art is practice. They are one and the same. You have to learn to love practice o
 
 Music and programming share this. I cringe thinking of my first programs. But I wrote many many more and they got better.
 
-The musical slang for this is "shedding". At first, you sound so bad, so you're forced to go out to the woodshed. But eventually shedding is just a thing you do. It becomes part of your practice.
+The musical slang for this is "shedding". At first, you sound so bad, you're exiled to the woodshed. But eventually shedding is just a thing you do. It becomes part of your practice.
 
 When Charlie Parker was starting, he asked if he could sit in on a jam session.  It didn't go well. He lost track of the changes while soloing. The drummer threw a cymbal at him.
 
