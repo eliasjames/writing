@@ -30,6 +30,6 @@ It was the best and worst thing. School was easy, but that made it really hard. 
 
 Every time I feel the pendulum swing one way, towards better or worse, a counterexample occurs to me and balances it out.
 
-This is the most true thing I've learned: nothing is good or bad in itself, or you could say it's good and bad at the same time. We choose what we want to see.
+This is the most true thing I've learned: nothing is good or bad in itself, or you could say it's good and bad at the same time. We choose how we interpret events.
 
 What you choose is very much the same as what you are.
