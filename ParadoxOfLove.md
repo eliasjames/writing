@@ -39,3 +39,5 @@ Romance ends when the couple settles down. But love lasts forever. Death is a pa
 The paradox of love: to last forever, it has to be taken to its end. To feel incredible, it must feel terrible.
 
 Get hurt, do it again.
+
+Love Death Now.
