@@ -19,7 +19,7 @@ See the way I twist, you, honey
 Still the days lie about
 How each bite dissolves
 Even the memory of the last
-The old piece replaced by the new flame
+The old piece consumed by the new flame
 Until you're not sure
 There's anything
 You've ever really grasped
@@ -28,7 +28,7 @@ Still the days lie, as
 All we play out
 They encode
 In a night's muggy buzz
-Like the solstice is the last summer day lying
+Like the solstice is summer’s last long day lying
 Like a smile holds a secret
 Show me yours!
 
